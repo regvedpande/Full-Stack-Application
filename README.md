@@ -24,12 +24,12 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/full-stack-job-search-app.git
+   git clone https://github.com/regvedpande/Full-Stack-Application.git
    ```
 
 2. **Navigate to the project directory:**
    ```bash
-   cd full-stack-job-search-app
+   cd Full-Stack-Application
    ```
 
 3. **Install dependencies:**
