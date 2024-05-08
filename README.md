@@ -109,4 +109,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For any inquiries or feedback, please contact [Regved Pande](mailto:regregd@outlook.com).
-```
